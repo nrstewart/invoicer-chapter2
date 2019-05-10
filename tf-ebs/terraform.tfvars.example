@@ -1,4 +1,0 @@
-aws_access_key = ""
-aws_secret_key = ""
-region         = "us-east-2"
-identifier     = "this_should_be_a_randomly_generated_UUID"
